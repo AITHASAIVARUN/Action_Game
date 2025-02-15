@@ -28,4 +28,4 @@ This is a modified version of the classic **Dragon Game**, where instead of a dr
 2. Open the project folder and run index.html in a browser.
 
    
-🎮 Play Online: [https://aithasaivarun.github.io/Action_Game/](play_now)
+🎮 Play Online: (play_now)[https://aithasaivarun.github.io/Action_Game/]
